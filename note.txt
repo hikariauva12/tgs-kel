@@ -1,0 +1,2 @@
+<i class="bi bi-calculator"></i>
+<i class="bi bi-bounding-box-circles"></i>
